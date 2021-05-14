@@ -1,0 +1,83 @@
+.red {
+  height: 500px;
+  width: 500px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 170px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.blue {
+  height: 170px;
+  width: 150px;
+  background-color: blue;
+  position: absolute;
+  top: 520px;
+  left: 0px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.yellow {
+  height: 80px;
+  width: 80px;
+  background-color: yellow;
+  position: fixed;
+  top: 610px;
+  left: 590px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.pad-1-top-left {
+  height: 250px;
+  width: 150px;
+  background-color: white;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.pad-2-top-left-bottom {
+  height: 250px;
+  width: 150px;
+  background-color: white;
+  position: fixed;
+  top: 250px;
+  left: 0px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.pad-3-bottom {
+  height: 170px;
+  width: 400px;
+  background-color: white;
+  position: fixed;
+  top: 520px;
+  left: 170px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
+
+.pad-4-top-right {
+  height: 80px;
+  width: 80px;
+  background-color: white;
+  position: fixed;
+  top: 520px;
+  left: 590px;
+  border-width: 15px;
+  border-style: solid;
+  border-color: black;
+}
